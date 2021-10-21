@@ -1,0 +1,41 @@
+.heading {
+  font-size: 35px;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: brown;
+  background-color: coral;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.firstparagraph {
+  font-size: 25px;
+  color: aqua;
+}
+.secondparagraph {
+  font-size: 25px;
+  color: brown;
+}
+.thirdparagraph {
+  font-size: 25px;
+  color: chocolate;
+}
+.fourthparagraph {
+  font-size: 25px;
+color: crimson;
+}
+.firstline {
+  font-size: 20px;
+  color: blanchedalmond;
+}
+.secondline {
+  font-size: 20px;
+  color: yellow;
+}
+.thirdline {
+  font-size: 20px;
+  color: peru;
+}
+.lastline {
+  font-size: 20px;
+  color: gold;
+}
